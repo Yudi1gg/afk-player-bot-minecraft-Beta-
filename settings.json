@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "ChunkLoader",
-        "password": "",
+        "username": "WrigglyLotus529",
+        "password": "Vtiriyqu123",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "owariuk.mc-srv.com",
-        "port": 26232,
-        "version": "1.18.1"
+        "ip": "SuportPCFun.aternos.me",
+        "port": 13167,
+        "version": "1.18.0"
     },
 
     "position":{
