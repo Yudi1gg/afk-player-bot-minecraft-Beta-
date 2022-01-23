@@ -8,15 +8,15 @@ const config = require('./settings.json');
 
 function createBot () {
   const bot = mineflayer.createBot({
-      username: config['bot-account']['username'],
-      password: config['bot-account']['password'],
-      host: config.server.ip,
-      port: config.server.port,
+      username: config['odindudin@gmail.com']['WrigglyLotus529'],
+      password: config['odindudin@gmail.com']['Vtiriyqu123'],
+      host: config.SuportPCFun.aternos.me,
+      port: config.13168,
       version: config.server.version
   })
 
 let semtup = {
-    port: 3000,
+    port: 13168,
     path: PATH,
     express: EXPRESS,
     app: APP,
